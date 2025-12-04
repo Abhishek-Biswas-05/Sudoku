@@ -1,0 +1,23 @@
+# Compiled object files
+*.o
+
+# Compiled executables
+sudoku
+*.exe
+*.out
+*.bin
+
+# Debug / logs
+*.log
+
+# Editor / IDE folders
+.vscode/
+.idea/
+
+# macOS files
+.DS_Store
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
